@@ -16,8 +16,6 @@
 
 ## Используемые библиотеки:
 - pandas
-- sklearn.linear_model
-- sklearn.model_selection
-- sklearn.metrics
+- sklearn
 
 
